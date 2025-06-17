@@ -1,6 +1,6 @@
 // loop (loops are used to execute a piece of code again and again)
 
-const { jsx } = require("react/jsx-runtime")
+
 
 
 
@@ -168,6 +168,6 @@ const { jsx } = require("react/jsx-runtime")
 //  generate a username for them based on thr innput start username 
 // with @ , followed by thier full name and ending with the full name length 
 
-let fullName = prompt("enter ur name");
-let username = "@" + fullName + fullName.length;
-console.log(username);
+//let fullName = prompt("enter ur name");
+//let username = "@" + fullName + fullName.length;
+//console.log(username);
