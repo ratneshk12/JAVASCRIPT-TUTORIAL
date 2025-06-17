@@ -186,6 +186,25 @@
 
 //odd even
 
+// let num = 10;
+
+// if (num % 2 === 0) {
+//     console.log(num, " is even");
+// } else {
+//     console.log(num, " is odd");
+// }
+
+// else if statement
+
+// let age = 15;
+
+// if (age < 18) {
+//     console.log("junior");
+// } else if (age > 25){
+//     console.log("senior");
+// } else {
+//     console.log ("middle");
+// }
 
 
 
